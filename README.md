@@ -12,10 +12,12 @@
 ![Python](https://img.shields.io/badge/PYTHON-%23376B9B?style=for-the-badge&logo=python&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JAVASCRIPT-%23E8D44D?style=for-the-badge&logo=javascript&logoColor=white)
 ![Laravel](https://img.shields.io/badge/LARAVEL-%23F54D3A?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-%236FA660?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/TAILWIND-%2336B6F2?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/BOOTSTRAP-%237811F1?style=for-the-badge&logo=bootstrap&logoColor=white)
+![MySql](https://img.shields.io/badge/MYSQL-%23DD8A00?style=for-the-badge&logo=mysql&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/RASPBERRY_PI-%23C31D48?style=for-the-badge&logo=raspberrypi&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-%23E44033?style=for-the-badge&logo=googlecloud&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-%234081EC?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Alibaba](https://img.shields.io/badge/ALIBABA-%23F74320?style=for-the-badge&logo=alibabacloud&logoColor=white)
 
 
