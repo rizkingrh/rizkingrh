@@ -16,6 +16,8 @@
 ![Bootstrap](https://img.shields.io/badge/BOOTSTRAP-%237811F1?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/RASPBERRY_PI-%23C31D48?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-%23E44033?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Alibaba](https://img.shields.io/badge/ALIBABA-%23F74320?style=for-the-badge&logo=alibabacloud&logoColor=white)
+
 
 ## 📊 Github Statistic
 <p align="left">
