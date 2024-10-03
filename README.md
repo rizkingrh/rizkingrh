@@ -25,7 +25,7 @@
 </a>
 </p>
 
-### 📫 Reach me on
+## 📫 Reach me on
 <a href="https://linkedin.com/in/rizkingrh/" target="_blank">![Linkedin](https://img.shields.io/badge/LINKEDIN-%230063C1?style=for-the-badge&logo=linkedin&logoColor=white)
 </a>
 <a href="https://www.instagram.com/rizkiingrh_/" target="_blank">![Instagram](https://img.shields.io/badge/INSTAGRAM-%23B9336D?style=for-the-badge&logo=instagram&logoColor=white)
