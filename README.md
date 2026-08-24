@@ -1,7 +1,7 @@
 ## <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='35' align="left"/> Hello there !
 
-- 🏦 Student at Universitas Sultan Ageng Tirtayasa
-- 🌱 Currently learning Cloud Computing
+- 🏦 Electrical Engineering Graduate
+- 🌱 Currently learning Cloud Computing & Backend
 - 👯 I’m looking to collaborate on some project
 - 💬 Ask me about tech
 
@@ -19,15 +19,6 @@
 ![Raspberry Pi](https://img.shields.io/badge/RASPBERRY_PI-%23C31D48?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-%234081EC?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Alibaba](https://img.shields.io/badge/ALIBABA-%23F74320?style=for-the-badge&logo=alibabacloud&logoColor=white)
-
-
-## 📊 Github Statistic
-<p align="left">
-<a href="https://github.com/rizkingrh">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rizkingrh&theme=algolia&hide_border=false&include_all_commits=false&count_private=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkingrh&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
-</a>
-</p>
 
 ## 📫 Reach me on
 <a href="https://linkedin.com/in/rizkingrh/" target="_blank">![Linkedin](https://img.shields.io/badge/LINKEDIN-%230063C1?style=for-the-badge&logo=linkedin&logoColor=white)
